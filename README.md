@@ -25,6 +25,8 @@ para demostrar comprension del estandar EIP-721.
 
 - Solidity `^0.8.24`
 - Desplegado y verificado en **Base** mainnet.
+- **Direccion:** `0x16Da112C0D4CDdfc6bF6526AAcC536713BB24638`
+- **Explorer:** https://basescan.org/address/0x16Da112C0D4CDdfc6bF6526AAcC536713BB24638
 
 ## Licencia
 
